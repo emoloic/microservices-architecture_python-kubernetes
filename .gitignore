@@ -1,0 +1,4 @@
+services/auth/venv
+services/converter/venv
+services/gateway/venv
+services/notification/venv
